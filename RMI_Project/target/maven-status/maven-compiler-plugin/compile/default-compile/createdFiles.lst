@@ -1,0 +1,5 @@
+com\mycompany\rmi_project\FactorialInterface.class
+com\mycompany\rmi_project\FactorialImpl.class
+com\mycompany\rmi_project\RMI_Project.class
+com\mycompany\rmi_project\Server.class
+com\mycompany\rmi_project\Client.class
